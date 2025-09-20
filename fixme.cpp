@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 int main(){
-    // unified message
-    std::cout << "Hello from YOUR branch\n";
+    // merged
+    std::cout << "Hello from BOTH branches\n";
     return 0;
 }
