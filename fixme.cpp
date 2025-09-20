@@ -1,6 +1,12 @@
 ﻿#include <iostream>
 int main(){
-    // merged for revert demo
+    // merged
     std::cout << "Hello from BOTH branches\n";
     return 0;
 }
+
+// friend: different line (no-conflict demo)
+
+// tweak 1
+
+// tweak 2
