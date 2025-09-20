@@ -6,3 +6,5 @@ int main(){
 }
 
 // friend: different line (no-conflict demo)
+
+// tweak 1
